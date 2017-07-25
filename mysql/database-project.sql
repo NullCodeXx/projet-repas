@@ -25,4 +25,4 @@ CREATE TABLE `event`(
     `image` VARBINARY(MAX) NOT NULL,
 )
 
-
+ALTER TABLE

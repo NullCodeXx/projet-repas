@@ -14,6 +14,8 @@ include_once "Users.php";
 
 class Database {
     
+    
+    
     //########## Crée un utilisateur ##########
     function creeUtilisateur(Users $user) {
         //Crée un dossier si il n'existe pas.
