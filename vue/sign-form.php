@@ -8,7 +8,7 @@ echo "<body style='background-color: black;color: lime;'>";
     <fieldset>
         <label for='name'>Pseudo</label>
         <input type='text' id='name' name='pseudo' placeholder="Mark">
-        <label for='mdp'>Password</label>
+        <label for='mdp'>Ajouter un mot de passe</label>
         <input type='password' id='mdp' name='mdp' placeholder="Mot de passe ">
         <input type="submit" name="inscription" value="inscription">
     </fieldset>
